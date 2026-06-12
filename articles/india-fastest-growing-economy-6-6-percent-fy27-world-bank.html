@@ -31,6 +31,8 @@
 
     .hero-story { background: #fff; margin-bottom: 24px; border: 1px solid #ddd; border-top: 3px solid #b00; }
     .hero-story .hero-image { width: 100%; height: 360px; background: #e0e0e0; display: flex; align-items: center; justify-content: center; color: #999; font-size: 1.2rem; overflow: hidden; }
+    .hero-story .hero-image img { width: 100%; height: 100%; object-fit: cover; }
+    .hero-story .image-placeholder, .secondary-story .image-placeholder, .card-image .image-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: #e0e0e0; color: #999; font-size: 0.9rem; }
     .hero-story .hero-body { padding: 24px; }
     .hero-story h2 { font-size: 2rem; margin-bottom: 8px; }
     .hero-story h2 a { color: #111; }
@@ -40,7 +42,8 @@
 
     .secondary-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; margin-bottom: 32px; }
     .secondary-story { background: #fff; border: 1px solid #ddd; border-top: 3px solid #b00; }
-    .secondary-story .story-image { width: 100%; height: 180px; background: #e8e8e8; display: flex; align-items: center; justify-content: center; color: #999; font-size: 0.9rem; }
+    .secondary-story .story-image { width: 100%; height: 180px; background: #e8e8e8; display: flex; align-items: center; justify-content: center; color: #999; font-size: 0.9rem; overflow: hidden; }
+    .secondary-story .story-image img { width: 100%; height: 100%; object-fit: cover; }
     .secondary-story .story-body { padding: 16px; }
     .secondary-story h3 { font-size: 1.15rem; margin-bottom: 6px; }
     .secondary-story h3 a { color: #111; }
@@ -54,6 +57,8 @@
     .category-section h2 a:hover { color: #b00; }
     .category-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
     .category-card { background: #fff; border: 1px solid #ddd; padding: 16px; }
+    .category-card .card-image { margin: -16px -16px 12px -16px; overflow: hidden; height: 160px; }
+    .category-card .card-image img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .category-card h3 { font-size: 1.05rem; margin-bottom: 6px; }
     .category-card h3 a { color: #111; }
     .category-card .meta { font-size: 0.8rem; color: #888; font-family: Arial, Helvetica, sans-serif; }
@@ -63,6 +68,9 @@
     .article-page .article-headline { font-size: 2.2rem; line-height: 1.2; margin-bottom: 12px; }
     .article-page .article-meta { font-size: 0.9rem; color: #888; margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; }
     .article-page .article-category { display: inline-block; background: #b00; color: #fff; padding: 4px 10px; font-size: 0.8rem; text-transform: uppercase; font-family: Arial, Helvetica, sans-serif; margin-bottom: 20px; }
+    .article-page .article-hero-image { margin: 0 0 24px 0; }
+    .article-page .article-hero-image img { width: 100%; max-height: 480px; object-fit: cover; display: block; border-radius: 4px; }
+    .article-page .article-hero-image .image-credit { font-size: 0.8rem; color: #888; margin-top: 4px; font-style: italic; font-family: Arial, Helvetica, sans-serif; }
     .article-page .article-excerpt { font-size: 1.1rem; color: #555; border-left: 4px solid #b00; padding-left: 16px; margin-bottom: 24px; font-style: italic; }
     .article-page .article-section { margin-bottom: 24px; }
     .article-page .article-section h3 { font-size: 1.3rem; margin-bottom: 8px; color: #333; }
@@ -74,10 +82,14 @@
 
     .category-page { background: #fff; border: 1px solid #ddd; padding: 32px; }
     .category-page h1 { font-size: 2rem; border-bottom: 3px solid #b00; padding-bottom: 8px; margin-bottom: 24px; }
-    .category-page .cat-article { padding: 16px 0; border-bottom: 1px solid #eee; }
+    .category-page .cat-article { display: flex; gap: 16px; padding: 16px 0; border-bottom: 1px solid #eee; }
     .category-page .cat-article:last-child { border-bottom: none; }
+    .category-page .cat-article-image { flex-shrink: 0; width: 180px; height: 120px; overflow: hidden; }
+    .category-page .cat-article-image img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .category-page .cat-article-body { flex: 1; min-width: 0; }
     .category-page .cat-article h2 { font-size: 1.2rem; }
     .category-page .cat-article .meta { font-size: 0.85rem; color: #888; font-family: Arial, Helvetica, sans-serif; margin-top: 4px; }
+    @media (max-width: 640px) { .category-page .cat-article { flex-direction: column; } .category-page .cat-article-image { width: 100%; height: 180px; } }
 
     .empty-state { text-align: center; padding: 60px 20px; color: #888; }
     .empty-state h2 { font-size: 1.5rem; margin-bottom: 8px; color: #555; }
@@ -126,6 +138,7 @@
   <span class="article-category">World</span>
   <h1 class="article-headline">India Still World's Fastest-Growing Economy, But Slowdown Looms!</h1>
   <div class="article-meta">Jun 12, 2026</div>
+  
   
   <div class="article-excerpt">India is set to remain the fastest-growing major economy, but World Bank warns growth will slip to 6.6% next fiscal amid rising energy prices.</div>
   
