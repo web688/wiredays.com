@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WireDays</title>
+    <link>https://wiredays.example.com</link>
+    <description>WireDays - Latest News and Stories</description>
+    <language>en</language>
+    <atom:link href="https://wiredays.example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 12 Jun 2026 16:15:22 +0000</lastBuildDate>
+    <item>
+      <title>Test Headline</title>
+      <link>https://wiredays.example.com/articles/test-headline.html</link>
+      <guid>https://wiredays.example.com/articles/test-headline.html</guid>
+      <description>A test excerpt.</description>
+      <pubDate>Fri, 12 Jun 2026 16:15:22 +0000</pubDate>
+      <category>technology</category>
+    </item>
+  </channel>
+</rss>
