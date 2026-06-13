@@ -1,123 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wiredays.com/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/huckabee-christian-leaders-gods-promise-israel.html</loc>
+    <loc>https://example.com/articles/test-headline.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/scotland-world-cup-mclean-taking-care-business.html</loc>
+    <loc>https://example.com/articles/huckabee-christian-leaders-gods-promise-israel.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/spacex-ipo-shadow-market-reckoning.html</loc>
+    <loc>https://example.com/articles/scotland-world-cup-mclean-taking-care-business.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/emma-harte-servants-quarters-business-empire.html</loc>
+    <loc>https://example.com/articles/spacex-ipo-shadow-market-reckoning.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/vini-jr-stars-apple-airpods-pro-3-noise-cancellation-dance-ad.html</loc>
+    <loc>https://example.com/articles/emma-harte-servants-quarters-business-empire.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/test-headline.html</loc>
+    <loc>https://example.com/articles/vini-jr-stars-apple-airpods-pro-3-noise-cancellation-dance-ad.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/graceland-buys-shedsync-ai-automation.html</loc>
+    <loc>https://example.com/articles/graceland-buys-shedsync-ai-automation.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/canada-world-cup-davies-fitness.html</loc>
+    <loc>https://example.com/articles/canada-world-cup-davies-fitness.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/crypto-giants-fifa-2026-world-cup-partnership.html</loc>
+    <loc>https://example.com/articles/crypto-giants-fifa-2026-world-cup-partnership.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/world-cup-tickets-hold-profit.html</loc>
+    <loc>https://example.com/articles/world-cup-tickets-hold-profit.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/canada-world-cup-2026-alphonso-davies-fitness.html</loc>
+    <loc>https://example.com/articles/canada-world-cup-2026-alphonso-davies-fitness.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/graceland-snaps-up-shedsync-to-turbocharge-dealer-digital-dreams.html</loc>
+    <loc>https://example.com/articles/graceland-snaps-up-shedsync-to-turbocharge-dealer-digital-dreams.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/india-fastest-growing-economy-6-6-percent-fy27-world-bank.html</loc>
+    <loc>https://example.com/articles/india-fastest-growing-economy-6-6-percent-fy27-world-bank.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiredays.com/articles/transformers-inspired-moon-rover-reveals-lunar-secrets.html</loc>
+    <loc>https://example.com/articles/transformers-inspired-moon-rover-reveals-lunar-secrets.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://wiredays.com/categories/politics/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://wiredays.com/categories/business/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://wiredays.com/categories/science/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://wiredays.com/categories/tech/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://wiredays.com/categories/world/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>

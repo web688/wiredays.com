@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WireDays</title>
-    <link>https://wiredays.com</link>
+    <link>https://example.com</link>
     <description>WireDays - Latest News and Stories</description>
     <language>en</language>
-    <atom:link href="https://wiredays.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 12 Jun 2026 17:30:04 +0000</lastBuildDate>
+    <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 13 Jun 2026 05:18:23 +0000</lastBuildDate>
+    <item>
+      <title>Test Headline</title>
+      <link>https://example.com/articles/test-headline.html</link>
+      <guid>https://example.com/articles/test-headline.html</guid>
+      <description>A test excerpt.</description>
+      <pubDate>Fri, 12 Jun 2026 19:14:24 +0000</pubDate>
+      <category>technology</category>
+    </item>
     <item>
       <title>Huckabee: We Back Israel Because of God's Promise, Not Politics</title>
-      <link>https://wiredays.com/articles/huckabee-christian-leaders-gods-promise-israel.html</link>
-      <guid>https://wiredays.com/articles/huckabee-christian-leaders-gods-promise-israel.html</guid>
+      <link>https://example.com/articles/huckabee-christian-leaders-gods-promise-israel.html</link>
+      <guid>https://example.com/articles/huckabee-christian-leaders-gods-promise-israel.html</guid>
       <description>Ambassador Mike Huckabee told Christian leaders that support for Israel is rooted in God's covenant with Abraham, dismissing claims that the current administration is hostile to Christianity.</description>
       <pubDate>Fri, 12 Jun 2026 17:29:35 +0000</pubDate>
       <category>politics</category>
     </item>
     <item>
       <title>McLean: Scotland 'Taking Care of Business' at World Cup</title>
-      <link>https://wiredays.com/articles/scotland-world-cup-mclean-taking-care-business.html</link>
-      <guid>https://wiredays.com/articles/scotland-world-cup-mclean-taking-care-business.html</guid>
+      <link>https://example.com/articles/scotland-world-cup-mclean-taking-care-business.html</link>
+      <guid>https://example.com/articles/scotland-world-cup-mclean-taking-care-business.html</guid>
       <description>Scotland's return to the World Cup could redefine its football legacy, says McLean, as the team aims to break historical barriers with an expanded tournament opportunity.</description>
       <pubDate>Fri, 12 Jun 2026 17:29:22 +0000</pubDate>
       <category>business</category>
     </item>
     <item>
       <title>SpaceX Goes Public! $100B Shadow Market in Panic</title>
-      <link>https://wiredays.com/articles/spacex-ipo-shadow-market-reckoning.html</link>
-      <guid>https://wiredays.com/articles/spacex-ipo-shadow-market-reckoning.html</guid>
+      <link>https://example.com/articles/spacex-ipo-shadow-market-reckoning.html</link>
+      <guid>https://example.com/articles/spacex-ipo-shadow-market-reckoning.html</guid>
       <description>SpaceX's long-awaited IPO is finally here, and it could trigger a massive shakeout in the wild west of venture secondaries—a $100 billion shadow market about to face its reckoning.</description>
       <pubDate>Fri, 12 Jun 2026 17:30:03 +0000</pubDate>
       <category>science</category>
     </item>
     <item>
       <title>Emma Harte: From Servant's Quarters to Business Empire</title>
-      <link>https://wiredays.com/articles/emma-harte-servants-quarters-business-empire.html</link>
-      <guid>https://wiredays.com/articles/emma-harte-servants-quarters-business-empire.html</guid>
+      <link>https://example.com/articles/emma-harte-servants-quarters-business-empire.html</link>
+      <guid>https://example.com/articles/emma-harte-servants-quarters-business-empire.html</guid>
       <description>The new series A Woman of Substance charts Emma Harte's incredible journey from poverty to power, with one love forever out of reach.</description>
       <pubDate>Fri, 12 Jun 2026 17:29:53 +0000</pubDate>
       <category>business</category>
     </item>
     <item>
       <title>Vini Jr. Stars in Apple's AirPods Pro 3 Noise Cancellation Dance Ad</title>
-      <link>https://wiredays.com/articles/vini-jr-stars-apple-airpods-pro-3-noise-cancellation-dance-ad.html</link>
-      <guid>https://wiredays.com/articles/vini-jr-stars-apple-airpods-pro-3-noise-cancellation-dance-ad.html</guid>
+      <link>https://example.com/articles/vini-jr-stars-apple-airpods-pro-3-noise-cancellation-dance-ad.html</link>
+      <guid>https://example.com/articles/vini-jr-stars-apple-airpods-pro-3-noise-cancellation-dance-ad.html</guid>
       <description>Apple's new ad features Brazilian footballer Vini Jr. dancing through the streets with AirPods Pro 3, touting the best active noise cancellation in the world.</description>
       <pubDate>Fri, 12 Jun 2026 17:29:13 +0000</pubDate>
       <category>technology</category>
     </item>
     <item>
-      <title>Test Headline</title>
-      <link>https://wiredays.com/articles/test-headline.html</link>
-      <guid>https://wiredays.com/articles/test-headline.html</guid>
-      <description>A test excerpt.</description>
-      <pubDate>Fri, 12 Jun 2026 17:28:13 +0000</pubDate>
-      <category>technology</category>
-    </item>
-    <item>
       <title>Graceland Buys ShedSync to Supercharge Shed Sales with AI and Automation!</title>
-      <link>https://wiredays.com/articles/graceland-buys-shedsync-ai-automation.html</link>
-      <guid>https://wiredays.com/articles/graceland-buys-shedsync-ai-automation.html</guid>
+      <link>https://example.com/articles/graceland-buys-shedsync-ai-automation.html</link>
+      <guid>https://example.com/articles/graceland-buys-shedsync-ai-automation.html</guid>
       <description>Graceland Portable Buildings snaps up ShedSync to bring AI-powered inventory and marketing to portable building dealers. It's a digital revolution for the shed world!</description>
       <pubDate>Fri, 12 Jun 2026 17:06:13 +0000</pubDate>
       <category>technology</category>
     </item>
     <item>
       <title>Canada's World Cup Dream Hinges on Alphonso Davies' Fitness</title>
-      <link>https://wiredays.com/articles/canada-world-cup-davies-fitness.html</link>
-      <guid>https://wiredays.com/articles/canada-world-cup-davies-fitness.html</guid>
+      <link>https://example.com/articles/canada-world-cup-davies-fitness.html</link>
+      <guid>https://example.com/articles/canada-world-cup-davies-fitness.html</guid>
       <description>Canada is chasing glory on home soil at the 2026 World Cup, but all eyes are on superstar Alphonso Davies and his race to be fit.</description>
       <pubDate>Fri, 12 Jun 2026 17:06:34 +0000</pubDate>
       <category>world</category>
     </item>
     <item>
       <title>Crypto Giants Score Big with FIFA for 2026 World Cup</title>
-      <link>https://wiredays.com/articles/crypto-giants-fifa-2026-world-cup-partnership.html</link>
-      <guid>https://wiredays.com/articles/crypto-giants-fifa-2026-world-cup-partnership.html</guid>
+      <link>https://example.com/articles/crypto-giants-fifa-2026-world-cup-partnership.html</link>
+      <guid>https://example.com/articles/crypto-giants-fifa-2026-world-cup-partnership.html</guid>
       <description>Kraken, Chiliz, and Avalanche join forces with FIFA for the 2026 World Cup, signaling a massive leap for crypto adoption in mainstream sports and finance.</description>
       <pubDate>Fri, 12 Jun 2026 17:06:22 +0000</pubDate>
       <category>world</category>
     </item>
     <item>
       <title>I Could Flip My World Cup Tickets for $1K Profit – But I'm Holding</title>
-      <link>https://wiredays.com/articles/world-cup-tickets-hold-profit.html</link>
-      <guid>https://wiredays.com/articles/world-cup-tickets-hold-profit.html</guid>
+      <link>https://example.com/articles/world-cup-tickets-hold-profit.html</link>
+      <guid>https://example.com/articles/world-cup-tickets-hold-profit.html</guid>
       <description>A friend made thousands selling his World Cup tickets. Here's why one fan is resisting the temptation to cash out.</description>
       <pubDate>Fri, 12 Jun 2026 17:06:44 +0000</pubDate>
       <category>world</category>
     </item>
     <item>
       <title>Canada's World Cup Dream Hinges on Alphonso Davies' Fitness</title>
-      <link>https://wiredays.com/articles/canada-world-cup-2026-alphonso-davies-fitness.html</link>
-      <guid>https://wiredays.com/articles/canada-world-cup-2026-alphonso-davies-fitness.html</guid>
+      <link>https://example.com/articles/canada-world-cup-2026-alphonso-davies-fitness.html</link>
+      <guid>https://example.com/articles/canada-world-cup-2026-alphonso-davies-fitness.html</guid>
       <description>Canada's men's team is aiming for glory on home soil in the 2026 World Cup, but all eyes are on star player Alphonso Davies as he battles to prove his fitness.</description>
       <pubDate>Fri, 12 Jun 2026 16:44:58 +0000</pubDate>
       <category>world</category>
     </item>
     <item>
       <title>Graceland Snaps Up ShedSync to Turbocharge Dealer Digital Dreams</title>
-      <link>https://wiredays.com/articles/graceland-snaps-up-shedsync-to-turbocharge-dealer-digital-dreams.html</link>
-      <guid>https://wiredays.com/articles/graceland-snaps-up-shedsync-to-turbocharge-dealer-digital-dreams.html</guid>
+      <link>https://example.com/articles/graceland-snaps-up-shedsync-to-turbocharge-dealer-digital-dreams.html</link>
+      <guid>https://example.com/articles/graceland-snaps-up-shedsync-to-turbocharge-dealer-digital-dreams.html</guid>
       <description>Portable building giant Graceland buys tech startup ShedSync to give dealers a high-tech makeover with AI marketing and automated inventory.</description>
       <pubDate>Fri, 12 Jun 2026 16:44:34 +0000</pubDate>
       <category>technology</category>
     </item>
     <item>
       <title>India Still World's Fastest-Growing Economy, But Slowdown Looms!</title>
-      <link>https://wiredays.com/articles/india-fastest-growing-economy-6-6-percent-fy27-world-bank.html</link>
-      <guid>https://wiredays.com/articles/india-fastest-growing-economy-6-6-percent-fy27-world-bank.html</guid>
+      <link>https://example.com/articles/india-fastest-growing-economy-6-6-percent-fy27-world-bank.html</link>
+      <guid>https://example.com/articles/india-fastest-growing-economy-6-6-percent-fy27-world-bank.html</guid>
       <description>India is set to remain the fastest-growing major economy, but World Bank warns growth will slip to 6.6% next fiscal amid rising energy prices.</description>
       <pubDate>Fri, 12 Jun 2026 16:45:30 +0000</pubDate>
       <category>world</category>
     </item>
     <item>
       <title>Transformers-Inspired Moon Rover Finally Reveals Its Lunar Secrets!</title>
-      <link>https://wiredays.com/articles/transformers-inspired-moon-rover-reveals-lunar-secrets.html</link>
-      <guid>https://wiredays.com/articles/transformers-inspired-moon-rover-reveals-lunar-secrets.html</guid>
+      <link>https://example.com/articles/transformers-inspired-moon-rover-reveals-lunar-secrets.html</link>
+      <guid>https://example.com/articles/transformers-inspired-moon-rover-reveals-lunar-secrets.html</guid>
       <description>Japan's adorable ball-shaped robot rover, inspired by Transformers, has finally shared data from its historic lunar crawl two years after landing.</description>
       <pubDate>Fri, 12 Jun 2026 16:45:44 +0000</pubDate>
       <category>science</category>
